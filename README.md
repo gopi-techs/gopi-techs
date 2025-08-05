@@ -1,13 +1,44 @@
-- 👋 Hi, I’m @gopi-techs
-- 👀 I’m interested in things that software can do...
-- 🌱 I’m currently learning microservices ...
-- 💞️ I’m looking to collaborate on community in software development and automation...
-- 📫 How to reach me gopiaj97@gmail.com ...
-- Linkeln -> www.linkedin.com/in/gopinatha-r
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Gopinatha R!
 
-<!---
-gopi-techs/gopi-techs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 DevOps Engineer | AWS Certified Solutions Architect
+
+---
+
+**About Me**
+
+I'm a passionate DevOps Engineer experienced in automating infrastructure, streamlining operations, and enabling cloud transformation. My expertise spans across cloud (AWS, Azure), on-premises environments, and end-to-end event automation.
+
+- 🔧 **Specialties:**  
+  Ansible • Terraform • AWS Cloud • Azure Cloud • On-Premises Infra • Event Automation • Inventory Management • Linux • Python
+
+- 🏆 **Certifications & Achievements:**  
+  - AWS Certified Solutions Architect  
+  - Best Employee Award
+
+- 💡 **What drives me:**  
+  I love solving complex infrastructure challenges, building resilient automation, and sharing knowledge with the tech community.
+
+---
+
+**🌱 Currently Exploring:**
+- Advanced automation with Ansible and Terraform
+- Multi-cloud architectures and hybrid solutions
+- Infrastructure as Code best practices
+
+---
+
+**🎉 Fun Facts**
+- 🐾 I enjoy spending time with my pets
+- 📚 I love reading self-motivation books and exploring manifestation techniques
+
+---
+
+**📫 Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gopinatha-r)
+
+---
+
+<!--
+✨ *Let’s automate, optimize, and innovate together!*
+-->
