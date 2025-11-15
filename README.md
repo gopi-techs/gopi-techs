@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gopinatha R!
 
-### 🚀 DevOps Engineer | AWS Certified Solutions Architect
+### 🚀 DevOps Engineer | AWS Certified Solutions Architect | AWS Machine Learning Engineer
 
 ---
 
